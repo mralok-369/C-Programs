@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\html"
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"formulahendry.code-runner"
+		]
+	}
+}
